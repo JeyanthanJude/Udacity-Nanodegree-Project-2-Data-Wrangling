@@ -17,8 +17,9 @@ The place chosen was Calgary, Canada. The data acquired is in XML format. Requir
 * Python
 
 ## File description :
+* sample_canada.osm - Data set used
 * Calgary_Cleaning.py - Python script used to Audit & Clean the OSM file
 * Process.py - Python script used to Process the OSM file
 * Sample_Generator+.py - Python Script to create a sample file of the original OSM
 * Schema_SQL.txt - Schema used to create SQL database
-* Report.pdf (597kb) - A PDF file containing the answers to thee rubic questions.
+* OpenStreetMap Data Case Study_Calgary.pdf - A PDF file containing the answers to thee rubic questions.
